@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1764888261 source:c:\codeblocks\trabalho_fisica.c
+	<time.h>
+	"raylib.h"
+	<math.h>
+	<stdio.h>
+	<stdlib.h>
+
+1764344888 c:\codeblocks\raylib-5.5_win64_mingw-w64\include\raylib.h
+	<stdarg.h>
+	<stdbool.h>
+
+1764703904 source:c:\codeblocks\trab_fisica\teste.c
+	"raylib.h"
+	<math.h>
+	<stdlib.h>
+	<stdio.h>
+	<time.h>
+	"raylib.h"
+	<math.h>
+	<stdlib.h>
+	<stdio.h>
+	<time.h>
+
